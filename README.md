@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hello There
-
 ![](https://cdn.discordapp.com/attachments/698929848600625223/733188971953258587/Untitled8_20200716120637_1-picsay.png)
 
 >don't mind anime girl above, she's just my drawing
