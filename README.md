@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello There
+
+![](https://cdn.discordapp.com/attachments/698929848600625223/733188971953258587/Untitled8_20200716120637_1-picsay.png)
+
+>don't mind anime girl above, she's just my drawing
+
+I'm Hafizh, i work as programmer :D, you can visit my website [here](https://me.hafizhrf.vercel.app/)
+nice to meet you
+
+
+- 🔭 I’m currently working on [8villages](https://github.com/8villages)
+- 📫 How to reach me: Email me at [my email](hafizhrf@yahoo.com)
+- ⚡ Fun fact: What's funnier than 24? 25! LOL
