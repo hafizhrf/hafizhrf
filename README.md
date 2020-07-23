@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/hafizhrf/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hafizhrf@yahoo.com&su=&body="><img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/hafizhrf/" target="_blank><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hafizhrf@yahoo.com&su=&body=" target="_blank><img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
 
 I'm Hafizh, i work as programmer :D, you can visit my personal website [here](https://me.hafizhrf.vercel.app/)
 nice to meet you
