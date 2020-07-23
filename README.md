@@ -19,7 +19,7 @@ nice to meet you
 
 
 - 🔭 I’m currently working on [8villages](https://github.com/8villages)
-- 📫 How to reach me: Email me at [my email](hafizhrf@yahoo.com)
+- 📫 How to reach me: Email me at [my email](https://mail.google.com/mail/?view=cm&fs=1&to=hafizhrf@yahoo.com&su=&body=)
 - ⚡ Fun fact: What's funnier than 24? 25! LOL
 
 <a href="https://www.linkedin.com/in/hafizhrf/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
