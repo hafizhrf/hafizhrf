@@ -24,4 +24,4 @@ nice to meet you
 
 
 - 🔭 I’m currently working on [8villages](https://github.com/8villages)
-- ⚡ Fun fact: What's funnier than 24? 25! LOL
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhrf)](https://github.com/anuraghazra/github-readme-stats)
