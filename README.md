@@ -28,4 +28,4 @@ nice to meet you
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhrf&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hafizhrf)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhrf&layout=compact&count_private=true)
