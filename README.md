@@ -26,6 +26,4 @@ nice to meet you
 - 🔭 I’m currently working on [8villages](https://github.com/8villages)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhrf&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhrf&layout=compact&count_private=true)
