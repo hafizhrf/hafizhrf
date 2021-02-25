@@ -23,7 +23,4 @@ I'm Hafizh, i work as programmer :D
 nice to meet you
 
 
-- 🔭 I’m currently working on [8villages](https://github.com/8villages)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhrf&layout=compact&count_private=true)
