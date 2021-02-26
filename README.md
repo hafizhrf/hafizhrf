@@ -22,5 +22,12 @@ Here are some ideas to get you started:
 I'm Hafizh, i work as programmer :D
 nice to meet you
 
+- 🌱 I’m currently learning
+- Typescript
+- Next.js
+- Mongodb Atlas
+- Express.js
+- etc
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhrf&layout=compact&count_private=true)
