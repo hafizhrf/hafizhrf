@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 I'm Hafizh, i work as programmer :D
 nice to meet you
 
-- 🌱 I’m currently learning
+#🌱 I’m currently learning
 - Typescript
 - Next.js
-- Mongodb Atlas
-- Express.js
+- graphql
 - etc
 
 
