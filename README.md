@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.linkedin.com/in/hafizhrf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hafizh@hafizhrf.me&su=&body=" target="_blank"><img src="https://img.shields.io/badge/mail--_.svg?style=social&logo=gmail" alt="Mail"></a>
-<a href="https://me.hafizhrf.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website--_.svg?style=social&logo=react" alt="Web"></a>
+<a href="https://hafizhrf.me/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website--_.svg?style=social&logo=react" alt="Web"></a>
 <img src="https://img.shields.io/badge/kanamori%230970--_.svg?style=social&logo=discord">
 
 I'm Hafizh, i work as programmer :D
